@@ -1,0 +1,46 @@
+body{
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    align-content: center;
+    text-align: center;
+    background-color: #FAFAFA;
+}
+
+.header {
+    background-color: rgb(189, 5, 5);
+    text-align: center;
+
+}
+.formulario{
+    background-color:crimson;
+    height: 200px;
+    text-align: center;
+}
+.contenido{
+    margin-top: 10px;
+}
+
+.tareas{
+   background: rgb(236, 230, 211);
+   width: 600px;
+   align-content: center;
+   padding: 10px;
+   margin-left: 600px;
+   margin-top: 10px;
+   
+}
+
+.entrada{
+    border-style: none;
+    border-radius: 10px;
+    margin-top: 70px;
+    width: 200px;
+    height: 40px;
+}
+.boton {
+    background-color: rgb(165, 112, 112);
+    color: white;
+    margin-top: 10px;
+    height: 40px;
+    width: 115px;
+}

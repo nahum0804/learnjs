@@ -31,7 +31,7 @@ El documento cuenta con funciones "incompletas" que utilzan "alerts" para compro
 
 # Editar
 
-Puedes descargar un archio _.zip _ con todos los documentos del repositorio y abrirlo en un IDE ya descargado en tu computadora.
+Puedes descargar un archio  _.zip_  con todos los documentos del repositorio y abrirlo en un IDE ya descargado en tu computadora.
 
 
 ### End

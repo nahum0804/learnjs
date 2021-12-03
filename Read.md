@@ -27,7 +27,7 @@ let agregarTarea = function(){
 };
 ```
 
-El documento cuenta con funciones "incompletas" que utilzan "alerts" para comprobar el funcionamiento correcto del codigo, ya que no lo he logrado.
+El documento "magic.js" cuenta con funciones "incompletas" que utilzan "alerts" para comprobar el funcionamiento correcto del codigo, ya que no lo he logrado.
 
 # Editar
 

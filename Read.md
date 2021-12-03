@@ -5,7 +5,7 @@ Este proyecto lo estoy realizando con el objetivo de aprender a utilizar JavaScr
 
 # ¿Como funciona?
 
--Consiste en una pagina que se encarga de crear una lista de tareas, que se van agregando con el botón "Agregar Tarea" gracias a una funcion que se encuentra en el archivo "magic.js".
+- Consiste en una pagina que se encarga de crear una lista de tareas, que se van agregando con el botón "Agregar Tarea" gracias a una funcion que se encuentra en el archivo "magic.js".
 ```javascript
 let agregarTarea = function(){
     let tarea = tareaInput.value,
@@ -31,7 +31,11 @@ El documento "magic.js" cuenta con funciones "incompletas" que utilzan "alerts" 
 
 # Editar
 
-Puedes descargar un archio  _.zip_  con todos los documentos del repositorio y abrirlo en un IDE ya descargado en tu computadora.
+- Puedes descargar un archio  _.zip_  con todos los documentos del repositorio y abrirlo en un IDE ya descargado en tu computadora.
+
+# Estado del proyecto
+
+El proyecto actualmente no cuenta con el funcionamiento del codigo JavaScript ya que no se ejecuta por alguna extraña razón.
 
 
 ### End

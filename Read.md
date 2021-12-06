@@ -29,9 +29,11 @@ let agregarTarea = function(){
 
 El documento "magic.js" cuenta con funciones "incompletas" que utilzan "alerts" para comprobar el funcionamiento correcto del codigo, ya que no lo he logrado.
 
-# Editar
+# ¿Como ejecutarlo?
 
-- Puedes descargar un archio  _.zip_  con todos los documentos del repositorio y abrirlo en un IDE ya descargado en tu computadora.
+- Puedes descargar un archio  _.zip_  con todos los documentos del repositorio y abrirlo en un Visual Studio Code.
+- Puedes ejecutar el HTML (file1.html) con la extensión de Visual Studio Code "Live Server"
+- El codigo JavaScript se ejecuta al dar click en el boton de la pagina (Debes agregar texto en el input).
 
 # Estado del proyecto
 
